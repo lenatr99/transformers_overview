@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex overview_transformers"] 1701257507 "overview_transformers.aux" "overview_transformers.bbl" "overview_transformers" 1701257539 0
-  "./sample.bib" 1701256495 306 15ba9bdd6bcf82ffe92a191ed481480f ""
+["bibtex overview_transformers"] 1701416688 "overview_transformers.aux" "overview_transformers.bbl" "overview_transformers" 1701421114 0
+  "./sample.bib" 1701416509 14228 fff9e4870abf25b253f73ecfa4943b4d ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/unsrt.bst" 1292289607 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "overview_transformers.aux" 1701257539 1049 849a5af3ee590603050d6cca69642a19 "pdflatex"
+  "overview_transformers.aux" 1701421114 3002 65a473126ca8a4fcbba197d553c14ef3 "pdflatex"
   (generated)
   "overview_transformers.bbl"
   "overview_transformers.blg"
   (rewritten before read)
-["pdflatex"] 1701257538 "/Users/lenatrnovec/Bioinformatics_lab/transformers/transformers_overview/transformers_overview/overview_transformers.tex" "overview_transformers.pdf" "overview_transformers" 1701257539 0
-  "/Users/lenatrnovec/Bioinformatics_lab/transformers/transformers_overview/transformers_overview/overview_transformers.tex" 1701257538 2021 e2e4573fce33c428d7bcb9d2319153b4 ""
+["pdflatex"] 1701421113 "/Users/lenatrnovec/Bioinformatics_lab/transformers/transformers_overview/transformers_overview/overview_transformers.tex" "overview_transformers.pdf" "overview_transformers" 1701421114 0
+  "/Users/lenatrnovec/Bioinformatics_lab/transformers/transformers_overview/transformers_overview/overview_transformers.tex" 1701421113 4158 32d5c02a5dd83cc88c8b0489e6c21882 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -97,10 +97,12 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1696411376 4687556 cc47caff59523ff191c3a298fcfbfede ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1696411424 8183247 b8ca51df11996fad2e615221c6f5f7cc ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "overview_transformers.aux" 1701257539 1049 849a5af3ee590603050d6cca69642a19 "pdflatex"
-  "overview_transformers.bbl" 1701257507 262 691bc0f253f3d0d51f3f506779d08ddd "bibtex overview_transformers"
-  "overview_transformers.out" 1701257539 269 a9b8794b6d48a333cd9b939e849eae3d "pdflatex"
-  "overview_transformers.tex" 1701257538 2021 e2e4573fce33c428d7bcb9d2319153b4 ""
+  "img/gene-tsne.png" 1701415048 356845 d9396f059bfa7d6b526e61371fa7e1b5 ""
+  "img/variant.png" 1701412964 526958 b0572717817934d995a4176b1a0108e2 ""
+  "overview_transformers.aux" 1701421114 3002 65a473126ca8a4fcbba197d553c14ef3 "pdflatex"
+  "overview_transformers.bbl" 1701416689 822 ab00c1e550581e778a40c0bf64c46e25 "bibtex overview_transformers"
+  "overview_transformers.out" 1701421114 566 86bd8c92c5e362897acd6591533f0a9f "pdflatex"
+  "overview_transformers.tex" 1701421113 4158 32d5c02a5dd83cc88c8b0489e6c21882 ""
   (generated)
   "overview_transformers.aux"
   "overview_transformers.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.4)  29 NOV 2023 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.4)  1 DEC 2023 09:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -286,15 +286,15 @@ LaTeX Font Info:    ... okay on input line 19.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
-* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(28.45274pt, 723.83812pt, 42.67912pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=443.57848pt
-* \textheight=681.15898pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=13.08827pt
-* \topmargin=-52.36449pt
+* \textwidth=500.484pt
+* \textheight=723.83812pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -342,29 +342,40 @@ Package hyperref Info: Link coloring ON on input line 19.
 \@outlinefile=\write3
 \openout3 = `overview_transformers.out'.
 
- (./overview_transformers.bbl) [1
+<img/gene-tsne.png, id=26, 854.19125pt x 533.995pt>
+File: img/gene-tsne.png Graphic file (type png)
+<use img/gene-tsne.png>
+Package pdftex.def Info: img/gene-tsne.png  used on input line 37.
+(pdftex.def)             Requested size: 400.38872pt x 250.30139pt.
+ [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./overview_transformers.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/gene-tsne.png>]
+<img/variant.png, id=44, 827.09pt x 388.45125pt>
+File: img/variant.png Graphic file (type png)
+<use img/variant.png>
+Package pdftex.def Info: img/variant.png  used on input line 61.
+(pdftex.def)             Requested size: 400.38872pt x 188.0489pt.
+ (./overview_transformers.bbl) [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./img/variant.png>] (./overview_transformers.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `overview_transformers.out' has not changed.
-(rerunfilecheck)             Checksum: A9B8794B6D48A333CD9B939E849EAE3D;269.
+(rerunfilecheck)             Checksum: 86BD8C92C5E362897ACD6591533F0A9F;566.
  ) 
 Here is how much of TeX's memory you used:
- 10630 strings out of 474934
- 167326 string characters out of 5759811
- 1927791 words of memory out of 5000000
- 32044 multiletter control sequences out of 15000+600000
- 563671 words of font info for 55 fonts, out of 8000000 for 9000
+ 10659 strings out of 474934
+ 167881 string characters out of 5759811
+ 1926791 words of memory out of 5000000
+ 32067 multiletter control sequences out of 15000+600000
+ 563978 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,481b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,890b,504s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on overview_transformers.pdf (1 page, 92661 bytes).
+Output written on overview_transformers.pdf (2 pages, 610951 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

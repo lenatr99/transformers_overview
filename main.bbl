@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{rives_biological_2021}
+Alexander Rives, Joshua Meier, Tom Sercu, Siddharth Goyal, Zeming Lin, Jason Liu, Demi Guo, Myle Ott, C.~Lawrence Zitnick, Jerry Ma, and Rob Fergus.
+\newblock Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences.
+\newblock {\em Proceedings of the National Academy of Sciences}, 118(15):e2016239118, April 2021.
+
+\bibitem{avsec_effective_2021}
+Žiga Avsec, Vikram Agarwal, Daniel Visentin, Joseph~R. Ledsam, Agnieszka Grabska-Barwinska, Kyle~R. Taylor, Yannis Assael, John Jumper, Pushmeet Kohli, and David~R. Kelley.
+\newblock Effective gene expression prediction from sequence by integrating long-range interactions.
+\newblock {\em Nature Methods}, 18(10):1196--1203, October 2021.
+
+\end{thebibliography}
